@@ -1,0 +1,8 @@
+//Music ON/OFF
+true
+//Music Volume
+30
+//Debug
+true
+//Loop
+false
